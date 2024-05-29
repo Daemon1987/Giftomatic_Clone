@@ -34,19 +34,6 @@ Follow the below steps to run the project on your localnet:
 - Create a local ganache server and publish the [contract](./contracts/Gift.sol) from remix ide to ganache server. And add the smart contract address in config.js file.
 - Run `npm start` to start the web application.
 
-
-## Contributing
-
-We welcome contributions from everyone:
-
-(well ofcource not in Matic)
-
-You can contribute to the project in the following way:
-
-- Report an issue related to the project
-- Add an enhancement by creating a PR
-- Fixing a bug
-
 ## Todo
 
 - Enhance the UI of the Dashboard
